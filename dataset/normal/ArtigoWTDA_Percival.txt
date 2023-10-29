@@ -1,0 +1,9 @@
+A interface gráfica (GUI) como meio de interação ser humano-
+computador  tornou-se,  nos últimos anos, onipresente nos 
+computadores pessoais facilitando e popularizando  o uso destes. 
+Contudo, o uso de  GUIs para interação com o usuário   apresenta 
+limitações (tamanho mínimo, resolução, etc) que impedem seu uso 
+efetivo em novos dispositivos de computação móveis (PDAs, telefones 
+celulares, etc). A grande quantidade de informações e serviços 
+existentes atualmente na Internet sugere um novo paradigma para 
+representação e apresentação de informação.

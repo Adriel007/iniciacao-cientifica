@@ -1,0 +1,2 @@
+Este trabalho visa a fornecer subsídios para a avaliação do custo e eficácia da aplicação da Análise de Mutantes na validação de Redes de Petri através da implementação da ferramenta Proteum­RS/PN, com base nas definições e especificações realizadas por Fabbri. 
+O objetivo deste trabalho está em consonância com a linha de pesquisa do grupo de Engenharia de Software do ICMC/USP que investiga critérios para o teste de especificações de Sistemas Reativos, com ênfase no teste e validação dos aspectos comportamentais desses sistemas.

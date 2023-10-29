@@ -1,0 +1,3 @@
+O problema da avaliação de desempenho de sistemas computacionais tem constituído uma vasta área de pesquisa, contemplada sob diferentes enfoques, em função dos objetivos almejados.
+Um ponto particularmente desafiante é a medida de desempenho em si, isto é, a definição de métricas que sirvam para representar o desempenho de um dado sistema, sob um determinado enfoque.
+Esse problema torna-se ainda mais atrativo quando se considera a computação paralela/distribuída, onde a busca por melhor desempenho é arquitetada através da exploração da potência computacional disponível em um conjunto de elementos de processamento [1] [2].

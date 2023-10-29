@@ -1,0 +1,2 @@
+A capacidade mais importante de um sistema de navegação para um robô móvel, além de manter-se operacional e evitar colisões, é a que estabelece a sua própria posição em relação ao ambiente. A esta capacidade damos o nome de localização, que consiste em atualizar a posição do robô no ambiente, tendo como base, as leituras provenientes dos sensores.
+As técnicas existentes para localização de robôs móveis podem ser classificadas nos seguintes grupos: técnicas baseadas em posicionamento relativo e as que se baseiam em posicionamento absoluto.

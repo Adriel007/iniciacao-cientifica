@@ -1,0 +1,22 @@
+Mediante este trabalho propõe-se como uma interface intuitiva pode contribuir para a gestão e 
+organização de eventos ao ser aplicada os parâmetros de User Interface Design e User 
+Experience Design. Para tal, foram utilizados os princípios de usabilidade e interatividade, 
+assim como pontos compreendidos a partir de um breve estudo sobre O Design Centrado no 
+Ser Humano, dentre alguns deles: User Interface Design, User Experience Design, Branding 
+Experience Design e Customer Experience Design para assim ser criado uma interface que seja 
+adaptável e de boa compreensão mesmo para novos usuários. Fora tais tópicos, também foram 
+observados formas de analisar como tal interface não se tornaria apta para uso a partir da 
+aplicação do método Cognitive Walkthrough, durante esse teste foram separadas as telas da 
+interface e assim feitas perguntas com base nos objetivos de cada tela especificamente a partir 
+das ações que poderiam ser executadas e assim verificar a taxa de aprovação que os usuários 
+possuiriam com base em como se saíram para realizar cada objetivo, além de analisar os 
+comentários deixados por eles sobre como poderia corrigir, aperfeiçoar ou adicionar na 
+interface. A pesquisa foi realizada com alunos de dentro da instituição e antigos visitantes, que 
+responderam sobre possíveis questões que a interface pode possuir a fim de melhorar sua 
+usabilidade e contribuir na interação entre usuário e sistema. A partir dos resultados alcançados 
+o protótipo apesar de uma média alta de aprovação, também obteve pontos negativos a serem 
+corrigidos, no geral devido a tamanho da fonte ou na cor que não contribuiu no destaque de 
+algumas informações em duas telas. Após análise, a aplicação possui viabilidade parcialmente 
+válida levando em conta os resultados obtidos e a implementação de mais algumas 
+funcionalidades ao protótipo, além da correção de alguns erros e um estudo mais a fundo tendo 
+como base, aplicações semelhantes ao UniEvents.

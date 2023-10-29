@@ -1,0 +1,4 @@
+Especificamente, os objetivos do trabalho apresentado são:
+- A criação de um roteiro para apoiar o desenvolvimento de aplicações para a Web que promovem o intercâmbio de informações, em particular nas etapas de definição, geração e apresentação de documentos estruturados suportados pelas aplicações;
+- Explorar, neste contexto, a utilização do padrão XML para prover a interoperabilidade entre as aplicações;
+- Realizar estudos de caso do roteiro proposto através da construção de duas aplicações para a Internet: AulaML e C2000ML.

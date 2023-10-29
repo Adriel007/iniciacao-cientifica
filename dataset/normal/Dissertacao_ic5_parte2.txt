@@ -1,0 +1,3 @@
+Esse trabalho tem por objetivo investigar métodos eficientes de construção, representação e minimização de AFs de grande porte (dezenas de milhões de estados), a fim de propor um conjunto de estruturas e algoritmos para criação de um sistema eficiente e versátil de representação de grandes léxicos de língua natural. 
+Outro objetivo é o de investigar métodos de representação para os atributos das entradas léxicas, de forma a permitir a criação de um formato otimizado capaz de ser inserido diretamente no AF, com o menor impacto possível no tamanho final desse último. 
+Será também desenvolvido um protótipo do sistema, para efeito de testes e confirmação de eficiência do sistema.

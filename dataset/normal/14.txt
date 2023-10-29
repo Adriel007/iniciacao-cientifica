@@ -1,0 +1,7 @@
+Este trabalho se propõe a descrever conceitos relacionados a integração de 
+dados, sobretudo ao processo ETL e sua utilidade dentro das organizações. Do ponto de 
+vista da sua implementação, a veremos através de uma demonstração da ferramenta 
+Informatica Intelligent Cloud Services (IICS), uma solução de integração de dados em 
+nuvem. Esse trabalho também traz um comparativo entre a nova tendência de integração 
+de dados (cloud data integration) e o modelo tradicional de integração de dados (on-premise) de maneira a evidenciar os pontos positivos e negativos da aplicação destes 
+dois estilos para seu negócio. 
