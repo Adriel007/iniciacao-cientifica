@@ -5,7 +5,7 @@ set_time_limit(0);
 
 include("./SearchLogic.php");
 
-$text = 'A inteligência artificial está revolucionando a maneira como interagimos com a tecnologia, Algoritmos avançados permitem que os dispositivos aprendam e se adaptem às nossas preferências.';
+$text = 'A importancia de termos a ciência ao nosso lado a fim de evitar desvios socioculturais é de grande importancia';
 
 $searchLogic = new SearchLogic('./dataset/normal', './dataset/toxic');
 $probability = $searchLogic->classify($text);
