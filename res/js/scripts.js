@@ -33,7 +33,7 @@ function showInfo() {
     Swal.fire({
         icon: 'info',
         title: 'Como usar',
-        text: 'Escreva o texto e clique em "Detectar" para obter a classificação do texto.',
+        html: 'Escreva o texto e clique em "Detectar" para obter a classificação do texto.<br><img src="res/img/qrcode.jpeg">',
         footer: '<h6>Este aplicativo está em desenvolvimento e não possui funcionalidades completas.</h6>'
     });
 }
